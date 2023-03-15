@@ -6,7 +6,7 @@ void main() {
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         backgroundColor: Colors.blueGrey[900],
-        title: Text('I Am Poor'),
+        title: Text('I  Poor'),
         centerTitle: true,
       ),
       body: Center(
